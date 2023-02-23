@@ -35,16 +35,16 @@
   --bs-gray-900: #212529;
   --bs-primary: #1abc9c;
   --bs-secondary: #2c3e50;
-  --bs-success: #198754;
+  --bs-success: #198720;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
-  --bs-primary-rgb: 26, 188, 156;
-  --bs-secondary-rgb: 44, 62, 80;
-  --bs-success-rgb: 25, 135, 84;
-  --bs-info-rgb: 13, 202, 240;
+  --bs-primary-rgb: 20, 18, 156;
+  --bs-secondary-rgb: 4, 62, 88;
+  --bs-success-rgb: 20, 135, 84;
+  --bs-info-rgb: 13, 20, 240;
   --bs-warning-rgb: 255, 193, 7;
   --bs-danger-rgb: 220, 53, 69;
   --bs-light-rgb: 248, 249, 250;
@@ -236,7 +236,7 @@ sup {
 }
 
 a {
-  color: #1abc9c;
+  color: blue;
   text-decoration: underline;
 }
 a:hover {
